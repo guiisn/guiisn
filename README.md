@@ -17,3 +17,13 @@
 <br><a>☎ +55(82)9 9613-8682</a>
 - 🚩 Location:
 <br><a href="https://www.google.com/maps/place/State+of+Alagoas/@-9.6511793,-38.9328583,7z/data=!3m1!4b1!4m5!3m4!1s0x700fd232f520d9b:0x7e2d39e57f3df62d!8m2!3d-9.5713058!4d-36.7819505">🌴 Alagoas, Brazil</a>
+
+<br/>
+<br/>
+
+<h2>🔥 Stats</h2>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guiisn&show_icons=true&theme=dracula1)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiisn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
