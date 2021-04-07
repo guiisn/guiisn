@@ -10,6 +10,7 @@
 - 👯 I’m looking to collaborate on web development jobs.
 - 📫 How to reach me: 
 <br><a href="https://www.linkedin.com/in/guiisn/"><img src = "https://image.flaticon.com/icons/png/512/174/174857.png" alt = "guiisn" width='15px' /> LinkedIn</a>
+<br><a href="http://guilhermedev.ga/?i=1"><img src = "" alt = "guiisn" width='15px' /> My Portfolio</a>
 <br><a href="https://www.instagram.com/guilhermenuns/?hl=pt-br"><img src = "https://image.flaticon.com/icons/png/512/174/174855.png" alt = "guiisn" width='15px' /> Instagram</a>
 <br><a href="http://wa.me/5582996138682"><img src = "https://www.freepnglogos.com/uploads/whatsapp-png-logo-1.png" alt = "guiisn" width='15px' /> WhatsApp</a>
 <br><a><img title='personal email' src = "https://upload.wikimedia.org/wikipedia/commons/2/2e/Gmail_2020.png" alt = "guiisn" width='15px' /> guilhermesouza96910524@gmail.com</a>
